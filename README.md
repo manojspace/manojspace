@@ -33,10 +33,6 @@ Passionate about creating seamless, user-centric web applications with over 8 ye
 - Engineered solutions that significantly improved user engagement and conversion rates
 - Designed and implemented parking management solutions with integrated payment processing
 
-## 📈 GitHub Stats
-
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojspace&show_icons=true&theme=radical)
-
 ## 🌟 Featured Projects
 
 *I'm currently updating my portfolio with recent projects. Stay tuned!*
