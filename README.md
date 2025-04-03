@@ -41,7 +41,7 @@ Passionate about creating seamless, user-centric web applications with over 8 ye
 
 <p>
 <a href="https://linkedin.com/in/manojspace" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:manojswami600@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><img src="https://img.shields.io/badge/Phone-+91--8248487486-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+<a href="mailto:manojswami600@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="phone:+91-8248487486"><img src="https://img.shields.io/badge/Phone-+91--8248487486-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
 </p>
 
 ---
